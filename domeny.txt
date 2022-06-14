@@ -1,0 +1,6 @@
+wp.pl
+google.com
+onet.pl
+allegro.pl
+interia.pl
+facebook.com
